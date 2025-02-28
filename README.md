@@ -1,6 +1,10 @@
+![Sitemap-Generator-Visualizer](https://socialify.git.ci/clueNA/Sitemap-Generator-Visualizer/image?font=Raleway&language=1&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Dark)
 # Sitemap Generator & Visualizer
 
 A Python-based tool that generates XML sitemaps by crawling websites and provides interactive visualization of sitemap structures using Streamlit and Plotly.
+
+## 🌐 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://xmlsgv.streamlit.app/)
 
 ## Overview
 
